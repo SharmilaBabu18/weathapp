@@ -1,0 +1,20 @@
+.main-con{
+    width: calc(100%-4rem);
+    padding: 2rem;
+}
+.inp{
+    width: 45%;
+    padding:0.5rem;
+    border-radius: 6px;
+}
+.heading {
+    color: white;
+}
+.search{
+    padding:0.5rem;
+    background-color: greenyellow;
+    border-radius: 6px;
+    margin-left: 0.5rem;
+}
+
+
